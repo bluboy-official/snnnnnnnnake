@@ -1,0 +1,9 @@
+C:\Users\asus\source\repos\snaaaaaaaaaake\snaaaaaaaaaake\bin\Debug\snaaaaaaaaaake.exe.config
+C:\Users\asus\source\repos\snaaaaaaaaaake\snaaaaaaaaaake\bin\Debug\snaaaaaaaaaake.exe
+C:\Users\asus\source\repos\snaaaaaaaaaake\snaaaaaaaaaake\bin\Debug\snaaaaaaaaaake.pdb
+C:\Users\asus\source\repos\snaaaaaaaaaake\snaaaaaaaaaake\obj\Debug\snaaaaaaaaaake.Form1.resources
+C:\Users\asus\source\repos\snaaaaaaaaaake\snaaaaaaaaaake\obj\Debug\snaaaaaaaaaake.Properties.Resources.resources
+C:\Users\asus\source\repos\snaaaaaaaaaake\snaaaaaaaaaake\obj\Debug\snaaaaaaaaaake.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\snaaaaaaaaaake\snaaaaaaaaaake\obj\Debug\snaaaaaaaaaake.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\snaaaaaaaaaake\snaaaaaaaaaake\obj\Debug\snaaaaaaaaaake.exe
+C:\Users\asus\source\repos\snaaaaaaaaaake\snaaaaaaaaaake\obj\Debug\snaaaaaaaaaake.pdb
